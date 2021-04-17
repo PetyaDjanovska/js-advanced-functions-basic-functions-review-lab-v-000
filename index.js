@@ -13,6 +13,7 @@ function wrapAdjective(flair='*') {
   }
 }
 
+<<<<<<< HEAD
 let Calculator = {
   add : function(a,b){
     return a + b;
@@ -34,4 +35,8 @@ function actionApplyer(i,array){
   for (j=0; j<array.length; j++)
     i=array[j](i);
   return i;
+=======
+let calculator {
+  function add(){}
+>>>>>>> 9b2d9be79b3462bb364c19bf1f743fa1f1dc3f05
 }
